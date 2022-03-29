@@ -39,8 +39,8 @@ Estou cada dia mais motivado e ansioso para minha primeira oportunidade.
 
 <div align="center">
 <a href="https://github.com/cantesani">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cantesani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cantesani&layout=compact&langs_count=8&theme=algolia"/></a>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cantesani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cantesani&layout=compact&langs_count=8&theme=algolia"/></a>
    </div>
 </br>
 </br>

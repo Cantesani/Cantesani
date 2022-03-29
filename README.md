@@ -1,6 +1,21 @@
 
-### Faaala Devs, tudo bem?! Sou o Gabriel.
-Tenho 31 anos, sou de São Paulo - Capital.
+<h1 align="left">Gabriel Cantesani</h1>
+  <a href="https://www.linkedin.com/in/gabriel-cantesani">
+    <img width="80px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="vertical-align:top;">
+  </a>
+   <a href="https://api.whatsapp.com/send?phone=SeuN%C3%BAmero5511955550307">
+    <img width="80px" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="linkedin" style="vertical-align:top;">
+  </a>
+  <a href="https://github.com/Cantesani/">
+    <img align="left" width="80px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="instagram" style="vertical-align:top;">
+  </a> 
+  <a href="https://www.instagram.com/gcantesani/">
+    <img align="left" width="80px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="vertical-align:top;">
+</div>
+
+</br>
+</br>
+o - Capital.
 </br>
 Sempre trabalhei com TI e de um tempo pra cá, estou me aventurando em programar. Estou amando esse mundo, é incrivel o "poder" de criar qualquer coisa.
 </br>

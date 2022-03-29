@@ -2,7 +2,8 @@
 <h1 align="left">Gabriel Cantesani</h1>
 
 Faaaala Devs, tudo bem?!
-Sou de São Paulo - Capital.
+</br>
+Sou Gabriel Cantesani, mais conhecido como Cantê. Sou de São Paulo - Capital.
 </br>
 Sempre trabalhei com TI e de um tempo pra cá, estou me aventurando em programar. Estou amando esse mundo, é incrivel o "poder" de criar qualquer coisa.
 </br>

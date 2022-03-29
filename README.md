@@ -1,6 +1,19 @@
 
 <h1 align="left">Gabriel Cantesani</h1>
 
+</br>
+</br>
+
+Faaaala Devs, tudo bem?!
+Sou de São Paulo - Capital.
+</br>
+Sempre trabalhei com TI e de um tempo pra cá, estou me aventurando em programar. Estou amando esse mundo, é incrivel o "poder" de criar qualquer coisa.
+</br>
+Estou encantado com a experiência de aprender algo novo e ser desafiado todos os dias, batendo cabeça para solucionar problemas. E cá entre nós, que sensação MARAVILHOSA quando conseguimos resolver e vemos o que fizemos, não?!
+</br>
+Estou cada dia mais motivado e ansioso para minha primeira oportunidade. 
+</br>
+
 <div>
    <a href="https://www.linkedin.com/in/gabriel-cantesani" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
    <a href="https://api.whatsapp.com/send?phone=SeuN%C3%BAmero5511955550307" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>

@@ -47,3 +47,11 @@ Estou cada dia mais motivado e ansioso para minha primeira oportunidade.
  <p align="left">📚 LaunchBase/BootCamp de Desenvolvimento Web [RocketSeat].</p>
  <p align="left">📚 Cursando Desenvolvimento Web FullStack, preparatório para Mercado de Trabalho [NewTab Academy].</p>
 
+ 
+ ##
+<p align="center">
+<a href="https://github.com/cantesani">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cantesani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cantesani&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>

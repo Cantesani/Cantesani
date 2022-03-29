@@ -36,12 +36,9 @@ Estou cada dia mais motivado e ansioso para minha primeira oportunidade.
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" title = "PHP"/></code>
 </br>
 </br>
-<p align="center">
+
 <a href="https://github.com/cantesani">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cantesani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cantesani&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cantesani&layout=compact&langs_count=8&theme=algolia"/></a>
 </br>
 </br>
-![Snake animation](https://github.com/cantesani/cantesani/blob/output/github-contribution-grid-snake.svg)

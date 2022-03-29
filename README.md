@@ -9,16 +9,15 @@ Sempre trabalhei com TI e de um tempo pra cá, estou me aventurando em programar
 Estou encantado com a experiência de aprender algo novo e ser desafiado todos os dias, batendo cabeça para solucionar problemas. E cá entre nós, que sensação MARAVILHOSA quando conseguimos resolver e vemos o que fizemos, não?!
 </br>
 Estou cada dia mais motivado e ansioso para minha primeira oportunidade. 
-
-
+</br>
 ### 📫 Contatos
 
    <a href="https://www.linkedin.com/in/gabriel-cantesani" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
    <a href="https://api.whatsapp.com/send?phone=SeuN%C3%BAmero5511955550307" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
    <a href="https://github.com/Cantesani/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
    <a href="https://www.instagram.com/gcantesani/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>  
-
-
+</br>
+</br>
 ### 🖥️ Tecnologias e Ferramentas: 
 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
@@ -27,20 +26,21 @@ Estou cada dia mais motivado e ansioso para minha primeira oportunidade.
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
-
-
+</br>
+</br>
 ### 🖥️ Estou aprendendo
 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" title = "LARAVEL"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MySQL"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" title = "PHP"/></code>
-
-
+</br>
+</br>
 <!-- <div display="inline-block"> -->
  <p align="left">📚 Formado em Análise e Desenvolvimento de Sistemas [UNIP].</p>
  <p align="left">📚 LaunchBase/BootCamp de Desenvolvimento Web [RocketSeat].</p>
  <p align="left">📚 Cursando Desenvolvimento Web FullStack, preparatório para Mercado de Trabalho [NewTab Academy].</p>
 <!-- </div> -->
+</br>
 </br>
 <p align="center">
 <a href="https://github.com/cantesani">
@@ -49,5 +49,5 @@ Estou cada dia mais motivado e ansioso para minha primeira oportunidade.
 </a>
 </p>
 </br>
-
+</br>
 ![Snake animation](https://github.com/cantesani/cantesani/blob/output/github-contribution-grid-snake.svg)

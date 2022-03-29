@@ -22,7 +22,6 @@ Estou cada dia mais motivado e ansioso para minha primeira oportunidade.
 </div>   
 
 </br>
-</br>
 
 ### 🖥️ Tecnologias e Ferramentas: 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
@@ -31,20 +30,22 @@ Estou cada dia mais motivado e ansioso para minha primeira oportunidade.
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
+
 </br>
+
 ### 🖥️ Estou aprendendo
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" title = "LARAVEL"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MySQL"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" title = "PHP"/></code>
-</br>
-</br>
-<div display="inline-block">
 
+</br>
+
+<div display="inline-block">
  <p align="left">📚 Formado em Análise e Desenvolvimento de Sistemas [UNIP].</p>
  <p align="left">📚 LaunchBase/BootCamp de Desenvolvimento Web [RocketSeat].</p>
  <p align="left">📚 Cursando Desenvolvimento Web FullStack, preparatório para Mercado de Trabalho [NewTab Academy].</p>
+</div>
 
- 
  ##
 <p align="center">
 <a href="https://github.com/cantesani">

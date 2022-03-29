@@ -11,6 +11,7 @@ Estou encantado com a experiência de aprender algo novo e ser desafiado todos o
 Estou cada dia mais motivado e ansioso para minha primeira oportunidade. 
 
 </br>
+
 ### 📫 Contatos
 
    <a href="https://www.linkedin.com/in/gabriel-cantesani" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>

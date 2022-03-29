@@ -1,7 +1,4 @@
 
-</br>
-</br>
-
 <div dsplay="inline-block">
  
  <h1 align="left">Gabriel Cantesani</h1>

@@ -42,8 +42,6 @@ Estou cada dia mais motivado e ansioso para minha primeira oportunidade.
 </br>
 </br>
 <div display="inline-block">
- <p align="left">🤿 No momento estou em busca da minha primeira oportunidade de trabalho como DEV;</p>
- <p align="left">🤿 Nesse meio tempo, venho fazendo diversos cursos para estar preparado quando chegar minha hora!;</p>
 
  <p align="left">📚 Formado em Análise e desenvolvimento pela UNIP.</p>
  <p align="left">📚 Finalizei alguns de Desenvolvimento Web pela RocketSeat.</p>

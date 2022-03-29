@@ -39,7 +39,11 @@ Estou cada dia mais motivado e ansioso para minha primeira oportunidade.
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" title = "LARAVEL"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MySQL"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" title = "PHP"/></code>
-
-
-
+</br>
+</br>
+<div display="inline-block">
+ <p align="left">🤿 No momento estou em busca da minha primeira oportunidade de trabalho como DEV;</p>
+ <p align="left">📚 Formado em Análise e desenvolvimento pela UNIP.</p>
+ <p align="left">   Finalizei alguns de Desenvolvimento Web pela RocketSeat.</p>
+ <p align="left">   Atualmente faço um preparatório para o mercado de trabalho na NewTab Academy.</p>
 

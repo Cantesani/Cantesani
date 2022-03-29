@@ -10,7 +10,6 @@ Estou encantado com a experiência de aprender algo novo e ser desafiado todos o
 </br>
 Estou cada dia mais motivado e ansioso para minha primeira oportunidade. 
 
-</br>
 
 ### 📫 Contatos
 

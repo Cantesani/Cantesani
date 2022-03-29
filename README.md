@@ -11,7 +11,6 @@
 </div>
 
 </br>
-</br>
 
 ## Faaala Devs, tudo bem?!
 
@@ -20,6 +19,7 @@ Sempre trabalhei com TI e hoje estou me aventurando em programar. Estou amando e
 Estou encantado com a experiência de aprender algo novo e ser desafiado todos os dias, batendo cabeça para solucionar problemas. E cá entre nós, que sensação MARAVILHOSA quando conseguimos resolver e vemos o que fizemos, não?!
 Estou cada dia mais motivado e ansioso para minha primeira oportunidade. 
 
+</br>
 
 ### 🖥️ Tecnologias e Ferramentas: 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>

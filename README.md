@@ -1,5 +1,9 @@
 
 <h1 align="left">Gabriel Cantesani</h1>
+
+<div>
+   <a href="https://www.linkedin.com/in/gabriel-cantesani" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
+</div>
   <a href="https://www.linkedin.com/in/gabriel-cantesani">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
   </a>
@@ -11,7 +15,7 @@
   </a> 
   <a href="https://www.instagram.com/gcantesani/">
     <img align="left" width="80px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="vertical-align:top;">
-</div>
+
 
 </br>
 </br>

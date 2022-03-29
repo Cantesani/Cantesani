@@ -3,7 +3,7 @@
 
 Faaaala Devs, tudo bem?!
 </br>
-Sou Gabriel Cantesani, mais conhecido como Cantê, nasci e moro em São Paulo capital.
+Sou Gabriel Cantesani, mais conhecido como Cantê, nasci e moro em São Paulo.
 </br>
 Sempre trabalhei com TI e, de um tempo pra cá, estou me aventurando em desenvolvimento. Estou amando esse mundo, é incrível o "poder" de criar qualquer coisa.
 </br>

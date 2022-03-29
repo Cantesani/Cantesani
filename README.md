@@ -16,7 +16,7 @@
 </br>
 </br>
 
-## Faaala, Devs, tudo bem?!
+## Faaala Devs, tudo bem?!
 
 Tenho 31 anos, sou de São Paulo - Capital.
 Sempre trabalhei com TI e hoje estou me aventurando em programar. Estou amando esse mundo, é incrivel a experiência de poder criar "qualquer coisa".

@@ -55,3 +55,5 @@ Estou cada dia mais motivado e ansioso para minha primeira oportunidade.
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cantesani&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+![Snake animation](https://github.com/cantesani/cantesani/blob/output/github-contribution-grid-snake.svg)

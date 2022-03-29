@@ -43,7 +43,7 @@ Estou cada dia mais motivado e ansioso para minha primeira oportunidade.
 </br>
 <div display="inline-block">
 
- <p align="left">📚 Formado em Análise e desenvolvimento pela UNIP.</p>
- <p align="left">📚 Finalizei alguns de Desenvolvimento Web pela RocketSeat.</p>
- <p align="left">📚 Atualmente faço um preparatório para o mercado de trabalho na NewTab Academy.</p>
+ <p align="left">📚 Formado em Análise e Desenvolvimento de Sistemas [UNIP].</p>
+ <p align="left">📚 LaunchBase/BootCamp de Desenvolvimento Web [RocketSeat].</p>
+ <p align="left">📚 Cursando Desenvolvimento Web FullStack, preparatório para Mercado de Trabalho [NewTab Academy].</p>
 

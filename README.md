@@ -16,7 +16,7 @@
 
 Tenho 31 anos, sou de São Paulo - Capital.
 </br>
-Sempre trabalhei com TI e hoje estou me aventurando em programar. Estou amando esse mundo, é incrivel a experiência de poder criar "qualquer coisa".
+Sempre trabalhei com TI e de um tempo pra cá, estou me aventurando em programar. Estou amando esse mundo, é incrivel o "poder" de criar qualquer coisa.
 </br>
 Estou encantado com a experiência de aprender algo novo e ser desafiado todos os dias, batendo cabeça para solucionar problemas. E cá entre nós, que sensação MARAVILHOSA quando conseguimos resolver e vemos o que fizemos, não?!
 </br>

@@ -35,13 +35,6 @@ Estou cada dia mais motivado e ansioso para minha primeira oportunidade.
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" title = "PHP"/></code>
 </br>
 </br>
-<!-- <div display="inline-block"> -->
- <p align="left">📚 Formado em Análise e Desenvolvimento de Sistemas [UNIP].</p>
- <p align="left">📚 LaunchBase/BootCamp de Desenvolvimento Web [RocketSeat].</p>
- <p align="left">📚 Cursando Desenvolvimento Web FullStack, preparatório para Mercado de Trabalho [NewTab Academy].</p>
-<!-- </div> -->
-</br>
-</br>
 <p align="center">
 <a href="https://github.com/cantesani">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cantesani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>

@@ -9,7 +9,7 @@ Sempre trabalhei com TI e de um tempo pra cá, estou me aventurando em programar
 Estou encantado com a experiência de aprender algo novo e ser desafiado todos os dias, batendo cabeça para solucionar problemas. E cá entre nós, que sensação MARAVILHOSA quando conseguimos resolver e vemos o que fizemos, não?!
 </br>
 Estou cada dia mais motivado e ansioso para minha primeira oportunidade. 
-<div>
+
 
 </br>
 
@@ -18,8 +18,7 @@ Estou cada dia mais motivado e ansioso para minha primeira oportunidade.
    <a href="https://www.linkedin.com/in/gabriel-cantesani" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
    <a href="https://api.whatsapp.com/send?phone=SeuN%C3%BAmero5511955550307" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
    <a href="https://github.com/Cantesani/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-   <a href="https://www.instagram.com/gcantesani/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-</div>   
+   <a href="https://www.instagram.com/gcantesani/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>  
 
 </br>
 
@@ -40,11 +39,11 @@ Estou cada dia mais motivado e ansioso para minha primeira oportunidade.
 
 </br>
 
-<div display="inline-block">
+<!-- <div display="inline-block"> -->
  <p align="left">📚 Formado em Análise e Desenvolvimento de Sistemas [UNIP].</p>
  <p align="left">📚 LaunchBase/BootCamp de Desenvolvimento Web [RocketSeat].</p>
  <p align="left">📚 Cursando Desenvolvimento Web FullStack, preparatório para Mercado de Trabalho [NewTab Academy].</p>
-</div>
+<!-- </div> -->
 
  ##
 <p align="center">

@@ -1,9 +1,6 @@
 
 <h1 align="left">Gabriel Cantesani</h1>
 
-</br>
-</br>
-
 Faaaala Devs, tudo bem?!
 Sou de São Paulo - Capital.
 </br>

@@ -10,8 +10,8 @@ Sempre trabalhei com TI e, de um tempo pra cá, estou me aventurando em desenvol
 E cá entre nós, que sensação MARAVILHOSA quando conseguimos resolver e enxergamos o resultado final, né?! É uma evolução constante.
 </br>
 Estou cada dia mais motivado e ansioso para minha primeira atuação na área.
-
 </br>
+
 ### 📫 Contatos
 
    <a href="https://www.linkedin.com/in/gabriel-cantesani" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>

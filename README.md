@@ -5,13 +5,13 @@ Faaaala Devs, tudo bem?!
 </br>
 Sou Gabriel Cantesani, mais conhecido como Cantê, nasci e moro em São Paulo.
 </br>
-Sempre trabalhei com TI e, de um tempo pra cá, estou me aventurando em desenvolvimento. Estou amando esse mundo, é incrível o "poder" de criar qualquer coisa.
+Sempre trabalhei com TI e, de um tempo pra cá, estou me aventurando em desenvolvimento e curtindo demais essa nova fase, é incrível o "poder" de criar qualquer coisa, ser desafiado diariamente, batendo cabeça para solucionar problemas e aprender algo novo todo dia. 
 </br>
-Estou encantado com a experiência de aprender algo novo e ser desafiado todos os dias, batendo cabeça para solucionar problemas. E cá entre nós, que sensação MARAVILHOSA quando conseguimos resolver e vemos o que fizemos, não?!
+E cá entre nós, que sensação MARAVILHOSA quando conseguimos resolver e enxergamos o resultado final, né?! É uma evolução constante.
 </br>
-Estou cada dia mais motivado e ansioso para minha primeira oportunidade. 
-</br>
-</br>
+Estou cada dia mais motivado e ansioso para minha primeira atuação na área.
+
+</br></br>
 ### 📫 Contatos
 
    <a href="https://www.linkedin.com/in/gabriel-cantesani" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>

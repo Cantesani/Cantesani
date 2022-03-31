@@ -11,7 +11,7 @@ E cá entre nós, que sensação MARAVILHOSA quando conseguimos resolver e enxer
 </br>
 Estou cada dia mais motivado e ansioso para minha primeira atuação na área.
 
-</br></br>
+</br>
 ### 📫 Contatos
 
    <a href="https://www.linkedin.com/in/gabriel-cantesani" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
